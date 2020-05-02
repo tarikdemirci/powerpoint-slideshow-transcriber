@@ -1,0 +1,15 @@
+{
+  "extends": "./node_modules/gts/",
+  "plugins": ["simple-import-sort"],
+  "env": {
+    "commonjs": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "simple-import-sort/sort": "error"
+  },
+  "ignorePatterns": [
+    "build/*"
+  ]
+}

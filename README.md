@@ -24,7 +24,7 @@ Processing ppsx file: 'powerpoint-show-transcriber-test-data.ppsx'
 Transcription saved to: 'powerpoint-show-transcriber-test-data-transcription.txt'
 Success!
 ```
-*Note:* A sample .ppsx file and a sample transcription is accessible under `test/resources/`.
+*Note:* A sample .ppsx file and a sample transcription is accessible under [test/resources/](https://github.com/tarikdemirci/powerpoint-slideshow-transcriber/tree/master/test/resources).
 
 ## Google Cloud Project Setup Instructions
 1. Create a project in Google Cloud.

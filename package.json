@@ -1,6 +1,6 @@
 {
   "name": "powerpoint-slideshow-transcriber",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Transcribe Powerpoint slideshows (*.ppsx files) using Google Cloud Speech-to-Text API",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
@@ -45,6 +45,7 @@
     "fs-extra": "^9.0.1",
     "google-auth-library": "^6.0.6",
     "linear16": "^1.2.0",
+    "node-fetch": "^2.6.1",
     "pumpify": "^2.0.1"
   },
   "engines": {
